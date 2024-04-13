@@ -1,0 +1,10 @@
+C:\Users\iovur\Desktop\Numere Prime\bin\Debug\Numere Prime.exe.config
+C:\Users\iovur\Desktop\Numere Prime\bin\Debug\Numere Prime.exe
+C:\Users\iovur\Desktop\Numere Prime\bin\Debug\Numere Prime.pdb
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere Prime.csproj.AssemblyReference.cache
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere_Prime.Form1.resources
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere_Prime.Properties.Resources.resources
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere Prime.csproj.GenerateResource.cache
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere Prime.csproj.CoreCompileInputs.cache
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere Prime.exe
+C:\Users\iovur\Desktop\Numere Prime\obj\Debug\Numere Prime.pdb
